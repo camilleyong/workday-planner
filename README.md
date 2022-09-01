@@ -6,6 +6,7 @@ buttons, local storage, and the times. I needed to add id's to all the hours, be
 everyone red or green. 
 
 ## Link
+(https://camilleyong.github.io/workday-planner/)
 
 ## GitHub
 (https://github.com/camilleyong/workday-planner)
